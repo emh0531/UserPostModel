@@ -7,4 +7,4 @@ This setup expects the following tools installed on the system
 - Ruby 3.1.2
 - Rails 6.1.7
 
-This is back end code only for a simple create user with post permissions app.  
+This is back end code only for a simple app to create a user based on username, email, first name, last name and allow post, edit, and delete permissions to that user.   
