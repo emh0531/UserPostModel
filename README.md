@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Prerequisites
 
-Things you may want to cover:
+This setup expects the following tools installed on the system
+- Github
+- Ruby 3.1.2
+- Rails 6.1.7
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is back end code only for a simple create user with post permissions app.  
